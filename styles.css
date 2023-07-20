@@ -66,8 +66,8 @@ section > p {
     
 }
 #joaninha > p {
+    display: inline-block;
     background: rgba(0, 0, 0, 0.349);
-    max-width: 800px;
     padding: 10px;
 }
 
@@ -82,8 +82,8 @@ section > p {
     
 }
 #livros > p {
+    display: inline-block;
     background: rgba(0, 0, 0, 0.349);
-    max-width: 800px;
     padding: 10px;
 }
 footer{
